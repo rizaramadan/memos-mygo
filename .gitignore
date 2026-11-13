@@ -1,0 +1,10 @@
+build/
+dist/
+tmp/
+.env
+.env.*
+*.app
+*.dmg
+*.test
+coverage.out
+.DS_Store
